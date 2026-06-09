@@ -19,8 +19,6 @@ Format : IEEE 754 Single Precision
 
 ## Concept
 
-## Concept
-
 Bilinear Interpolation은 주변 4개 픽셀을 기준으로 새 픽셀값을 계산하는 방식이다.
 
 아래 그림은 목표 좌표의 값을 주변 4개 픽셀값으로 보간하는 개념을 보여준다.
