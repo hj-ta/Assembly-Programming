@@ -62,15 +62,15 @@ ARM 어셈블리로 MNIST 숫자 이미지를 20×20에서 80×80으로 확대�
 
 Bilinear Interpolation은 주변 4개 픽셀을 기준으로 새 픽셀값을 계산하는 방식이다.
 
-![Bilinear Interpolation Concept](./ASM-project/assets/bilinear-interpolation-concept.png)
+![Bilinear Interpolation Concept](./ASM-Project/assets/bilinear-interpolation-concept.png)
 
 20×20 입력 이미지는 행과 열 방향으로 각각 4배 확대되어 80×80 결과 이미지가 된다.
 
-![Input and Output Structure](./ASM-project/assets/input-output-structure.png)
+![Input and Output Structure](./ASM-Project/assets/input-output-structure.png)
 
 아래 그림은 작은 입력 행렬이 확대될 때 보간 픽셀이 어떻게 생성되는지 보여준다.
 
-![Bilinear Interpolation Example](./ASM-project/assets/bilinear-interpolation-example.png)
+![Bilinear Interpolation Example](./ASM-Project/assets/bilinear-interpolation-example.png)
 
 > 이미지 출처: 광운대학교 「어셈블리프로그래밍 설계 및 실습」 Term Project 과제 제안서, Figure 1~3.
 
